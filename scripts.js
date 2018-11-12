@@ -18,6 +18,7 @@ var o_rock_count = localStorage.getItem("o_rock_count");
 var o_scissors_count = localStorage.getItem("o_scissors_count");
 
 var roundingPlace = 1;
+alert("hi");
 
 document.getElementById("gameCount").innerHTML = 0;
 document.getElementById("gameCount").innerHTML = 0;
